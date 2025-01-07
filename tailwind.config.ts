@@ -12,6 +12,15 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily:{
+        karla : ["Karla", "serif"],
+        markazi : ["Markazi Text", "serif"],
+      },
+      fontSize:{
+        karla : "18",
+        markazi_heading : "64",
+        markazi_content : "40",
+      }
     },
   },
   plugins: [],
