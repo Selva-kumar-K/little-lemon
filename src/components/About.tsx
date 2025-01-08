@@ -5,7 +5,7 @@ import AboutImage from "../../public/about.png";
 export default function About() {
   return (
     <section className="bg-[#EDEFEE] ">
-      <div className="xl:w-[70%] xl:mx-auto py-10 px-5 xl:px-0">
+      <div className="xl:w-[70%] xl:mx-auto py-24 px-5 xl:px-0">
         <div className="flex flex-col lg:flex-row lg:justify-between">
           <div className="space-y-8 ">
             <div className="">
