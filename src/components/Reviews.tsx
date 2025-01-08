@@ -4,7 +4,7 @@ import { reviews } from "@/libs/reviews";
 
 export default function Reviews() {
   return (
-    <div className="bg-[#495E57] py-5">
+    <div className="bg-[#495E57] py-[8%] ">
       <div className="text-center"> 
         <h1 className="font-markazi text-[30px] lg:text-markazi_heading text-[#EDEFEE]">
           Our customers love us!
