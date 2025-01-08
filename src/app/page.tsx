@@ -1,3 +1,5 @@
+import About from "@/components/About";
+import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import ProductSection from "@/components/ProductSection";
@@ -9,6 +11,8 @@ export default function Home() {
       <HeroSection />
       <ProductSection />
       <Reviews/>
+      <About/>
+      <Footer/>
     </main>
   );
 }

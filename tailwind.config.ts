@@ -15,11 +15,13 @@ export default {
       fontFamily:{
         karla : ["Karla", "serif"],
         markazi : ["Markazi Text", "serif"],
+        inika : ["Inika", "serif"],
       },
       fontSize:{
         karla : "18",
         markazi_heading : "64",
         markazi_content : "40",
+        inika : "20",
       }
     },
   },
