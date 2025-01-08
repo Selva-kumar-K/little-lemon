@@ -15,7 +15,7 @@ export default function HeroSection() {
               <p className="font-markazi text-[30px] lg:text-[40px] text-[#EDEFEE]">Chicago</p>
             </div>
             <div>
-              <p className="font-karla text-karla text-[#EDEFEE] lg:w-[340px]">
+              <p className="font-karla text-karla text-[#EDEFEE] lg:text-[18px] lg:w-[340px]">
                 We are a family owned Mediterranean restaurant, focused on
                 traditional recipes served with a modern twist.
               </p>
